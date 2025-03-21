@@ -1,2 +1,11 @@
-Title: Empowering SMEs and Freelancers with AxisIQ: Simplified Data Analytics for All
-Overview Small and medium-sized enterprises (SMEs) and freelancers play a pivotal role in the global economy, yet they often lack access to affordable and intuitive tools for data analytics. AxisIQ was conceptualized to bridge this gap, offering an accessible and user-friendly analytics platform designed to meet their unique needs. This study highlights why SMEs and freelancers are an ideal target audience for AxisIQ and how the platform is structured to create long-term value.
+# AxisIQ Prototype
+
+This prototype aims to explore functionalities for AxisIQ, a platform designed to empower SMEs and freelancers with intuitive and affordable data analytics tools.
+
+## Current Features
+- Basic webpage structure (HTML) as a proof of concept.
+
+## Vision
+- Deliver accessible data visualization tools.
+- Simplify analytics for non-technical users.
+
